@@ -25,7 +25,7 @@
   <router-view />
   <div id="footer">
       <p>Page Author: James Peterson</p>
-      <p><a href="https://github.com/james-peterson11/creativeProj.git">GitHub Repository</a></p>
+      <p><a href="https://github.com/james-peterson11/creativeProj3.git">GitHub Repository</a></p>
   </div>
 </div>
 </template>
